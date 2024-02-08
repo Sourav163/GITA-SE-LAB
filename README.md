@@ -1,2 +1,2 @@
 # GITA-SE-LAB
-This repo contains basic flowchart concepts regarding Software Engineering.
+This repo contains basic flowchart programs regarding Software Engineering.
